@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Brick.vcxproj" Id="750ced22-d280-4d9c-87e4-5c0d1c98d633" />
+</Solution>
